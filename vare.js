@@ -9,15 +9,15 @@ let ali;
 
 
 
-/*
+
 console.log(name);
 console.log(email);
 console.log(country);
 console.log(ali);
-*/
 
 
-console.table([name, email, country, ali])
+
+//console.table([name, email, country, ali])
 
 
 
