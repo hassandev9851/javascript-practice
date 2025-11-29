@@ -12,9 +12,9 @@ for (let i = 1; i <= 7; i++) {
 }
 
 
-let battry = 90;    //>greater than & <less than
-while (battry < 100) {
-    console.log("charging " + battry + "%");
+let battry = 3;    //>greater than & <less than
+while (battry < 10) {
+    console.log("charging is eror " + battry + "%");
     battry++;
 
 }      
